@@ -8,10 +8,10 @@ The goal of this project is to demonstrate proficiency in full-stack web develop
 
 ## ⚙️ Features
 
-- 🎮 **Multiplayer Pong Game** — Real-time, online gameplay  
+- 🎮 **Multiplayer Pong Game** — Real-time, online gameplay 1v1 or create a tournament with friends  
 - 👤 **Authentication** — 2FA, OAuth, JWT-based auth  
 - 📬 **Live Chat** — Real-time messaging and channels  
-- 🏅 **Leaderboard & Stats** — Track wins, ELO, and player ranks  
+- 🏅 **Leaderboard & Stats** — Track wins and game history
 - 🧱 **Modular Architecture** — Easily extendable components  
 - 📱 **Responsive UI** — Works across devices  
 
