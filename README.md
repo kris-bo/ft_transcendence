@@ -28,7 +28,7 @@ The goal of this project is to demonstrate proficiency in full-stack web develop
 
 - `PostgreSQL`  
 - `WebSockets`  
-- `React` / `Vue` / `Next.js`  
+- `Vue`
 - `Docker`, `Docker Compose`  
 - `Socket.io`  
 
