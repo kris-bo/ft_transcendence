@@ -4,7 +4,7 @@ A full-stack multiplayer web application built as the final project of the 42 cu
 
 ## 🧠 Project Overview
 
-The goal of this project is to demonstrate proficiency in full-stack web development using modern frameworks and technologies. Users can register, play Pong online against other players (or bots), chat, add friends, and climb a global leaderboard.
+The goal of this project is to demonstrate proficiency in full-stack web development using modern frameworks and technologies. Users can register, play Pong online against other players, chat, add friends, track your game stats and create tournaments.
 
 ## ⚙️ Features
 
