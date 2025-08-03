@@ -17,8 +17,8 @@ The goal of this project is to demonstrate proficiency in full-stack web develop
 
 ## 🏗️ Architecture
 
-- **Frontend**: [React.js / Next.js / Vue.js] (based on your actual implementation)  
-- **Backend**: NestJS with REST APIs and WebSockets  
+- **Frontend**: Vue.js 
+- **Backend**: Python Django, REST APIs and WebSockets  
 - **Database**: PostgreSQL  
 - **Authentication**: OAuth2, JWT, optional 2FA via TOTP  
 - **Deployment**: Docker & Docker Compose (with optional NGINX/SSL)  
